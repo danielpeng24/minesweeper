@@ -18,6 +18,9 @@ public class controller : MonoBehaviour
         { false, false, false, false, false, false, false, false, false, false },
         { false, false, false, false, false, false, false, false, false, false }
     };
+
+    private static int clicks = 0;
+    
     void Start()
     {
         
